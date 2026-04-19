@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="res/CastleRockLogoBWCropped.png />
-    <img src="res/CastleRockLogoBWCropped.svg" alt="Castlerock Logo" />
+    <source media="(prefers-color-scheme: dark)" srcset="res/CastleRockLogoWhite.png />
+    <img src="res/CastleRockLogoWhite.svg" alt="Castlerock Logo" />
   </picture>
 </p>
 
