@@ -1,7 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="res/CastleRockLogoWhite.png />
-    <img src="res/CastleRockLogoWhite.png" alt="Castlerock Logo" />
+    <img src="res/CastleRockLogoWhite.svg" alt="Castlerock Logo" />
   </picture>
 </p>
 
